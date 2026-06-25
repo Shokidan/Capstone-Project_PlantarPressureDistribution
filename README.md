@@ -1,4 +1,4 @@
-# Capstone-Project_PlantarPressureDistribution
+# Capstone Project: Plantar Pressure Distribution Classification using Deep Learning
 Contains the training files, of the various Deep learning models using in my undergraduate capstone
 
 
